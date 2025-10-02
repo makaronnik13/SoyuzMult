@@ -44,7 +44,7 @@ StreamingAssets/your_marker.mind
 ```
 
 <figure>
-  <img src="marker_setup.png" alt="MindARImageTrackingManager: путь к .mind" style="max-width: 100%; border-radius: 8px;">
+  <img src="marker_setup.PNG" alt="MindARImageTrackingManager: путь к .mind" style="max-width: 100%; border-radius: 8px;">
   <figcaption><b>Рис. 1.</b> Путь к .mind указывается относительно папки <code>StreamingAssets</code>.</figcaption>
 </figure>
 
@@ -62,7 +62,7 @@ StreamingAssets/your_marker.mind
 3. Поместите 3D‑модель ребёнком под **ImageTracker** и подгоните позицию/масштаб/поворот.
 
 <figure>
-  <img src="tracker_setup.png" alt="ImageTracker: Target Index и модель‑ребёнок" style="max-width: 100%; border-radius: 8px;">
+  <img src="tracker_setup.PNG" alt="ImageTracker: Target Index и модель‑ребёнок" style="max-width: 100%; border-radius: 8px;">
   <figcaption><b>Рис. 2.</b> Объект <code>ImageTracker</code> с <code>Target Index = 0</code>; модель — его дочерний объект.</figcaption>
 </figure>
 
